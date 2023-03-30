@@ -1,4 +1,5 @@
 #Text Editor
+
 This is a simple text editor built in Python using the Tkinter module. The editor allows users to create, edit, and save text files. It also has some basic features like opening existing files, saving files, and saving files with a new name. The editor has a scroll bar to navigate through long texts.
 
 Getting Started
